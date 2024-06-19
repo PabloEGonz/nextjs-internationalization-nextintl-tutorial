@@ -1,0 +1,9 @@
+{
+  "Home": {
+    "title": "Bienvenue dans ce tutoriel!"
+  },
+  "LocaleSwitcher": {
+    "label": "Changer de langue:",
+    "locale": "{locale, select, es {🇪🇸} en {🇺🇸} fr {🇫🇷} other {Unknown}}"
+  }
+}
