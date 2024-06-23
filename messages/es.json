@@ -1,6 +1,8 @@
 {
   "Home": {
-    "title": "Bienvenidos a este tutorial!"
+    "title": "Bienvenidos a La Casa del Pan!",
+    "subtitle": "Ofreciendo productos recién horneados todos los días, la mejor panadería en Mexico!"
+
   },
   "LocaleSwitcher": {
     "label": "Cambiar idioma",
