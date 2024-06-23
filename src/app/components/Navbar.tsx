@@ -3,13 +3,13 @@ import LocaleSwitcher from "./LocaleSwitcher";
 
 const Nav = ({ locale }: { locale: string }) => {
   return (
-    <header className="w-full h-28">
+    <header className="w-full h-16">
       <nav
-        className="fixed w-full bg-black z-40 mx-auto p-4 sm:flex sm:items-center sm:justify-between"
+        className="fixed w-full bg-black z-40 p-4 flex justify-between"
         aria-label="navbar"
       >
         <div className="flex items-center justify-between">
-          <a className="flex-none text-xl font-semibold" href="/">
+          <a href="/">
             <img
               src="https://nodetron.dev/nextjs.svg"
               alt="Logo"
